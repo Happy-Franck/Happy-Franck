@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-<img src="https://skillicons.dev/icons?i=html,css,php,javascript,laravel,angular,vuejs,vuetify,nuxtjs,pinia,figma,lunacy,adobexdgit,wordpress"/>
+<img src="https://skillicons.dev/icons?i=html,css,php,javascript,laravel,angular,vuejs,vuetify,nuxtjs,pinia,figma,lunacy,adobexd,git,wordpress"/>
