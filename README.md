@@ -1,1 +1,1 @@
-<img src="https://skillicons.dev/icons?i=html,css,javascript,php,bootstrap,tailwind,wordpress,laravel,angular,vue,vuetify,nuxtjs,pinia,react,next,threejs,prisma,nest,flutter,mysql,mongo,git,docker,linux,figma,xd,ps,ai,blender,notion,nginx,sentry,python,pytorch,tensorflow,l`unacy"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,php,bootstrap,tailwind,wordpress,laravel,angular,vue,vuetify,nuxtjs,pinia,react,next,threejs,prisma,nest,flutter,mysql,mongobd,git,docker,linux,figma,xd,ps,ai,blender,notion,nginx,sentry,python,pytorch,tensorflow,lunacy"/>
